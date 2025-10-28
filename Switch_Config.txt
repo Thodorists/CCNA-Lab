@@ -1,0 +1,3 @@
+Switch 1: Συνδέεται με PC1 και Router G0/0
+Switch 2: Συνδέεται με PC2 και Router G0/1
+Switch 3: Συνδέεται με PC3 και Router G0/2
