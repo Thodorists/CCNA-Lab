@@ -1,4 +1,4 @@
-# CCNA Labs
+# CCNA Lab
 
 Αυτό το repository περιέχει το CCNA lab μου με router, switches και PCs.
 
